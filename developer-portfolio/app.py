@@ -19,4 +19,4 @@ def about():
 
 
 if __name__ == '__main__':
-    app.run(debug=Flask)
+    app.run(debug=False)
